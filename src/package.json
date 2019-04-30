@@ -1,0 +1,12 @@
+{
+  "name": "AutoWL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vincentremond/youtube-subscriptions-to-playlist",
+  "author": "Vincent Rémond",
+  "license": "MIT",
+  "dependencies": {
+    "google-auth-library": "^3.1.2",
+    "googleapis": "^39.2.0"
+  }
+}
